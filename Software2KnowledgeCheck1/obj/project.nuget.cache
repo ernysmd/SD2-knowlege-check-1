@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "utRWEnU882a655JM3/izE2PRABhhASzqyroovIEJyVhYUh+sJ/AmWl/+VNheu0hrXEjNYfzcyXomZtAp1T22dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernys\\Desktop\\Coding\\CodeLouisville\\SoftwareDevelopment2\\SD2-Knowledge-Check-1\\Software-2-Knowledge-Check-1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1\\Software2KnowledgeCheck1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernys\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ernys\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ernys\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ernys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
